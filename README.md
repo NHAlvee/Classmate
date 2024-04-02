@@ -1,6 +1,6 @@
 To get started with Classmate, follow these steps:
 
-1. **Clone the Repository:** git clone https://github.com/NIshita2000/classmate.git
+1. **Clone the Repository:** git clone https://github.com/NHAlvee/Classmate
 
 2. **Install Dependencies:** Ensure you have JavaFX set up in your development environment.
 
